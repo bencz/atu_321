@@ -24,3 +24,4 @@
 002200161024                  CUMODID       10          TEXT('LAS MOD BY')
 002300161024                                            COLHDG('LAST' 'MODIF.' 'BY')
 002400161024                  CUDEL     R               REFFLD(DLCODE)
+002401210211                  CUREG          5A         TEXT('Region')
